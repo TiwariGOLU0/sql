@@ -7,4 +7,4 @@ Each script focuses on a specific analytical theme and demonstrates best practic
 
 🌟 **About Me**
 Hi there! I'm Manish Tiwari. I’m an **Business & Data Analytics Professional** to share knowledge and make working with data enjoyable and engaging!
-I always follow one **principle** that… ==========**Data se sikho,Dimag se socho aur Discipline se Jito..**
+I always follow one **principle** that… =====**Data se sikho,Dimag se socho aur Discipline se Jito..**
